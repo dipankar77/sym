@@ -20664,7 +20664,7 @@ html:not(.ie) .tt-promo-box .tt-description .tt-description-wrapper .tt-backgrou
         .tt-promo-fullwidth:not(.tt-layout-size-02) .tt-description p {
           margin-top: 15px; }
         .tt-promo-fullwidth:not(.tt-layout-size-02) .tt-description [class^="btn"] {
-          margin-top: 27px; } }
+          margin-top: 210px; } }
     @media (max-width: 1100px) {
       .tt-promo-fullwidth:not(.tt-layout-size-02) .tt-description {
         padding: 10% 5%; }
