@@ -10792,7 +10792,7 @@ header {
       color: #fd7e5e;
       background: transparent; }
     header .tt-color-scheme-03 .tt-desctop-menu:not(.tt-hover-02) nav > ul li.dropdown.selected > a {
-      color: #fd7e5e;
+      color: #cccccc;
       background: transparent; }
     header .tt-color-scheme-03 .tt-dropdown-obj .tt-dropdown-toggle {
       color: #ffffff; }
@@ -28011,7 +28011,7 @@ body:not(.touch-device) .arrow-location-center-02.tt-arrow-hover:hover .slick-ar
     transition: 0.4s;
     width: 62px;
     height: 62px;
-    background-color: rgba(253, 126, 94, 0.75);
+    background-color: #cccccc;
     color: #ffffff;
     font-size: 0;
     line-height: 0;
